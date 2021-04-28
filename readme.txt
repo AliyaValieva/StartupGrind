@@ -8,7 +8,7 @@ index-3.html
 File with all the data
 Sample-Data.json
 
-Folder with written JS scripts
+Folder with written JS scripts 
 js/app.js
 
 Admin folder from Git
