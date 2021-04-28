@@ -1,21 +1,19 @@
-test.html, js/app-1.js
-Тестовые файлы, можно удалить
-
+Files with tables created, which are conntected to each other with help of menu on the left
 index.html
 index-1.html
 index-2.html
 index-3.html
-Это файлы с таблицами, связаны друг с другом меню слева.
 
+
+File with all the data
 Sample-Data.json
-Файл с данными.
 
+Folder with written JS scripts
 js/app.js
-Файл со скриптами.
 
+Admin folder from Git
 cleopatra
-Папка с админкой из Git, можно удалить.
 
+Folders and files from admin
 css, img, js/scripts.js
-Папки и файлы админки.
 
